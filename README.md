@@ -9,8 +9,8 @@
 ---
 |Java|C++|
 |-|-|
-| [Day 0](https://github.com/nidhi859/30-days-practice/blob/master/java/day0.java) | []()
-| [Day 1](https://github.com/nidhi859/30-days-practice/blob/master/java/day01.java)| []()
-| [Day 2](https://github.com/nidhi859/30-days-practice/blob/master/java/day02.java)| []()
+| [DAY 0](https://github.com/nidhi859/30-days-practice/blob/master/java/day0.java) | []()
+| [DAY 1](https://github.com/nidhi859/30-days-practice/blob/master/java/day01.java)| []()
+| [DAY 2](https://github.com/nidhi859/30-days-practice/blob/master/java/day02.java)| []()
 | [DAY 3](https://github.com/nidhi859/30-days-practice/blob/master/java/day03.java)| []()
-| [Day 4](https://github.com/nidhi859/30-days-practice/blob/master/java/day04.java)| []()
+| [DAY 4](https://github.com/nidhi859/30-days-practice/blob/master/java/day04.java)| []()
